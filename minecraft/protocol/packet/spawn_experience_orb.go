@@ -2,7 +2,7 @@ package packet
 
 import (
 	"github.com/go-gl/mathgl/mgl32"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // SpawnExperienceOrb is sent by the server to spawn an experience orb entity client-side. Much like the

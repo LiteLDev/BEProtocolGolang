@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // UpdateEquip is sent by the server to the client upon opening a horse inventory. It is used to set the

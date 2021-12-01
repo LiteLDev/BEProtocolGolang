@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // ServerSettingsRequest is sent by the client to request the settings specific to the server. These settings

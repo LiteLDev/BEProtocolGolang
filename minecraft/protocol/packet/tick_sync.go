@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // TickSync is sent by the client and the server to maintain a synchronized, server-authoritative tick between

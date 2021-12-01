@@ -2,7 +2,7 @@ package packet
 
 import (
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // PlayerSkin is sent by the client to the server when it updates its own skin using the in-game skin picker.

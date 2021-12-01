@@ -1,8 +1,8 @@
 package minecraft
 
 import (
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 	"github.com/go-gl/mathgl/mgl32"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
 )
 
 // GameData is a loose wrapper around a part of the data found in the StartGame packet. It holds data sent

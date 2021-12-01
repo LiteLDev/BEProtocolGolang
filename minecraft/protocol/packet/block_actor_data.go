@@ -1,8 +1,8 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/nbt"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // BlockActorData is sent by the server to update data of a block entity client-side, for example the data of

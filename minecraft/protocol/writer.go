@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/go-gl/mathgl/mgl32"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/nbt"
 	"image/color"
 	"io"
 	"reflect"

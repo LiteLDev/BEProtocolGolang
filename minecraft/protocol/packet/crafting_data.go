@@ -2,7 +2,7 @@ package packet
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // CraftingData is sent by the server to let the client know all crafting data that the server maintains. This

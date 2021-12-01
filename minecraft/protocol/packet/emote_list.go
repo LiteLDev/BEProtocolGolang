@@ -2,7 +2,7 @@ package packet
 
 import (
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 )
 
 // EmoteList is sent by the client every time it joins the server and when it equips new emotes. It may be

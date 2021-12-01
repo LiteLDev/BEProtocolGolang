@@ -1,4 +1,4 @@
-module github.com/sandertv/gophertunnel
+module github.com/LiteLDev/BEProtocolGolang
 
 go 1.13
 

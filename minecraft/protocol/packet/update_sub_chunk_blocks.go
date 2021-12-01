@@ -1,6 +1,6 @@
 package packet
 
-import "github.com/sandertv/gophertunnel/minecraft/protocol"
+import "github.com/LiteLDev/BEProtocolGolang/minecraft/protocol"
 
 // UpdateSubChunkBlocks is essentially just UpdateBlock packet, however for a set of blocks in a sub chunk.
 type UpdateSubChunkBlocks struct {
